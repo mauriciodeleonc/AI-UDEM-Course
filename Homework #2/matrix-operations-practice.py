@@ -1,5 +1,5 @@
 '''
-    matriz-operations-practice.py
+    matrix-operations-practice.py
     Python script for practicing
     different type of basic operations 
     with matrices using the numpy library.
